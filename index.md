@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome
 
-I'm glad you are here. I plan to talk about ...
+苟利国家生死以，岂因祸福避趋之。
